@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
-
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+Bienvenido a mi blog. Aquí encontrarás guías y software de IA
+para mejoar tu productividad
+- Upscayl (mejorar imágenes)
+- Ultimate Vocal Remover (separar voces)
+- Stable Diffusion (generar imágenes con IA)
+- soft para voz en off
+- editores generadores de mapas y toda clase de herramientas de IA
