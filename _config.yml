@@ -1,43 +1,22 @@
-# Welcome to Jekyll!
-#theme: jekyll-theme-minimal
-# This config file is meant for settings that affect your whole blog.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-
 title: tu ayuda ia
-description: "Las mejores herramientas de inteligencia artificial, gratis y sin internet."... ❤
+description: "Las mejores herramientas de inteligencia artificial, gratis y sin internet."
 github_username: riwam
-url: https://riwam.github.io
+url: "https://riwam.github.io"
 
-# Email and twitter are optional:
-email:
-twitter_username:
-
-# Set this to true to get LaTeX math equation support
-use_math:
-
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics:
-
-# Everything below here can be ignored, unless you want to change the theme entirely
+# TEMA: Este es el que da el diseño bonito
 theme: minima
+
+# Plugins necesarios para que todo funcione
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
 
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
-
-highlighter: rouge
+# Configuración del marcado y resaltado de código
 markdown: kramdown
+highlighter: rouge
 kramdown:
-  math_engine: katex
   input: GFM
   auto_ids: true
   hard_wrap: false
